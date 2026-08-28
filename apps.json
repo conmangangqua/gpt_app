@@ -8,8 +8,7 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/callyx_dev.apk",
-        "prod": "https://github.com/conmangangqua/gpt_app/releases/download/prod/callyx_prod.apk"
+        "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/callyx_dev.apk"
       },
       "versions": {
         "dev": "1.0.0+1",
@@ -17,7 +16,7 @@
       },
       "store": "",
       "category": "Caller ID",
-      "category_source": "gitlab",
+      "category_source": "rule",
       "store_updated": null,
       "store_version": null
     },
