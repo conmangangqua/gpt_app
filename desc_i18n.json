@@ -1,1 +1,10 @@
-{}
+{
+ "callyx": {
+  "en": "Caller ID to identify unknown numbers, block spam calls & read missed alerts.",
+  "vi": "ID người gọi để xác định các số chưa biết, chặn cuộc gọi spam và đọc thông báo nhỡ."
+ },
+ "knowcall": {
+  "en": "Caller ID & spam blocker: see who is calling and catch alerts you missed",
+  "vi": "ID người gọi và trình chặn thư rác: xem ai đang gọi và nhận thông báo bạn bỏ lỡ"
+ }
+}
