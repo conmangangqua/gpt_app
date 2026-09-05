@@ -9,11 +9,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/callyx_dev.apk",
-        "prod": "https://github.com/conmangangqua/gpt_app/releases/download/prod/callyx_prod.apk"
+        "prod": "https://github.com/conmangangqua/gpt_app/releases/download/prod/callyx_prod.apk",
+        "aab": "https://github.com/conmangangqua/gpt_app/releases/download/aab/callyx.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26090601"
       },
       "store": "",
       "category": "Caller ID",
