@@ -17,7 +17,7 @@
         "prod": "1.0.0+26090601",
         "aab": "1.0.0+26090601"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.callyx.caller",
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": null,
