@@ -36,8 +36,8 @@
         "aab": "https://github.com/conmangangqua/gpt_app/releases/download/aab/knowcall.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090602",
-        "prod": "1.0.0+26090602",
+        "dev": "1.0.1+26091001",
+        "prod": "1.0.1+26091001",
         "aab": "1.0.0+26090602"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.knowcall.caller",
