@@ -13,7 +13,7 @@
         "aab": "https://github.com/conmangangqua/gpt_app/releases/download/aab/callyx.aab"
       },
       "versions": {
-        "dev": "1.0.0+26090601",
+        "dev": "1.0.1+26091001",
         "prod": "1.0.0+26090601",
         "aab": "1.0.0+26090601"
       },
