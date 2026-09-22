@@ -20,8 +20,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.callyx.caller",
       "category": "caller",
       "category_source": "store",
-      "store_updated": "Sep 13, 2026",
-      "store_version": "26091401 (1.0.1)"
+      "store_updated": "Sep 14, 2026",
+      "store_version": null
     },
     {
       "id": "knowcall",
@@ -43,8 +43,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.knowcall.caller",
       "category": "caller",
       "category_source": "store",
-      "store_updated": "Sep 13, 2026",
-      "store_version": "26091401 (1.0.1)"
+      "store_updated": "Sep 14, 2026",
+      "store_version": null
     }
   ]
 }
