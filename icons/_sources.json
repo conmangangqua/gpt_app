@@ -6,5 +6,9 @@
   "callyx": {
     "sha": "2797c378827585af769d528da0a31ed19f5397e4b2ee64a95635f3a8ad199ddc",
     "src": "https://github.com/conmangangqua/gpt_app/releases/download/dev/callyx_icon.png"
+  },
+  "pixarel": {
+    "sha": "cc2bf1ce22c925a22a3595e1ad79c1b55dd8945d4e067a5fbfe7780b845d1797",
+    "src": "https://github.com/conmangangqua/gpt_app/releases/download/dev/pixarel_icon.png"
   }
 }

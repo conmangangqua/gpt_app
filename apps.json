@@ -45,6 +45,25 @@
       "category_source": "store",
       "store_updated": "Sep 14, 2026",
       "store_version": "26091401 (1.0.1)"
+    },
+    {
+      "id": "pixarel",
+      "name": "Pixarel",
+      "icon": "icons/pixarel.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/pixarel_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": "",
+      "category": "photo-ai",
+      "category_source": "store",
+      "store_updated": null,
+      "store_version": null
     }
   ]
 }
