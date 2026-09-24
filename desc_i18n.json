@@ -6,5 +6,9 @@
  "knowcall": {
   "en": "Caller ID & spam blocker: see who is calling and catch alerts you missed",
   "vi": "ID người gọi và trình chặn thư rác: xem ai đang gọi và nhận thông báo bạn bỏ lỡ"
+ },
+ "pixarel": {
+  "en": "Turn photos and text prompts into AI art, with a built-in photo editor",
+  "vi": "Biến ảnh và lời nhắc văn bản thành tác phẩm nghệ thuật AI với trình chỉnh sửa ảnh tích hợp"
  }
 }
