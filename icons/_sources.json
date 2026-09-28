@@ -10,5 +10,9 @@
   "pixarel": {
     "sha": "cc2bf1ce22c925a22a3595e1ad79c1b55dd8945d4e067a5fbfe7780b845d1797",
     "src": "https://github.com/conmangangqua/gpt_app/releases/download/dev/pixarel_icon.png"
+  },
+  "gamarine": {
+    "sha": "b9492d8764f1b70e0d2e00bd32f0e1aaedbb030d27c26b892fddddb3ee7ed38d",
+    "src": "https://github.com/conmangangqua/gpt_app/releases/download/dev/gamarine_icon.png"
   }
 }
