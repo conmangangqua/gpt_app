@@ -21,7 +21,7 @@
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": "Sep 13, 2026",
-      "store_version": null
+      "store_version": "26091401 (1.0.1)"
     },
     {
       "id": "knowcall",
@@ -44,7 +44,7 @@
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": "Sep 13, 2026",
-      "store_version": null
+      "store_version": "26091401 (1.0.1)"
     },
     {
       "id": "pixarel",
@@ -55,11 +55,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/pixarel_dev.apk",
-        "prod": "https://github.com/conmangangqua/gpt_app/releases/download/prod/pixarel_prod.apk"
+        "prod": "https://github.com/conmangangqua/gpt_app/releases/download/prod/pixarel_prod.apk",
+        "aab": "https://github.com/conmangangqua/gpt_app/releases/download/aab/pixarel.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26092801"
       },
       "store": "",
       "category": "Photography",
