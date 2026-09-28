@@ -39,8 +39,8 @@
         "prod": "1.0.5+26092001"
       },
       "store": "",
-      "category": null,
-      "category_source": null,
+      "category": "Cleaner & Booster",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
