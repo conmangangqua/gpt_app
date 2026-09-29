@@ -3,7 +3,7 @@
     {
       "id": "callyx",
       "name": "Callyx",
-      "icon": "https://github.com/conmangangqua/gpt_app/releases/download/prod/callyx_icon.png",
+      "icon": "icons/callyx.webp",
       "platform": "Android",
       "description": "",
       "features": [],
