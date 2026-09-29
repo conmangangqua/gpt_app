@@ -24,21 +24,6 @@
       "store_version": "26091401 (1.0.1)"
     },
     {
-      "id": "gamarine",
-      "name": "Gamarine",
-      "icon": "https://github.com/conmangangqua/gpt_app/releases/download/dev/gamarine_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {},
-      "versions": {},
-      "store": "",
-      "category": "Cleaner & Booster",
-      "category_source": "gitlab",
-      "store_updated": null,
-      "store_version": null
-    },
-    {
       "id": "knowcall",
       "name": "Knowcall",
       "icon": "icons/knowcall.webp",
