@@ -54,10 +54,12 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/turbolt_dev.apk"
+        "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/turbolt_dev.apk",
+        "prod": "https://github.com/conmangangqua/gpt_app/releases/download/prod/turbolt_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26092901"
+        "dev": "1.0.0+26092901",
+        "prod": "1.0.0+26092901"
       },
       "store": "",
       "category": null,
