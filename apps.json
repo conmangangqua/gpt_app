@@ -45,6 +45,25 @@
       "category_source": "rule",
       "store_updated": "Sep 13, 2026",
       "store_version": "26091401 (1.0.1)"
+    },
+    {
+      "id": "turbolt",
+      "name": "Turbolt",
+      "icon": "icons/turbolt.webp",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/gpt_app/releases/download/dev/turbolt_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+26092901"
+      },
+      "store": "",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
     }
   ]
 }

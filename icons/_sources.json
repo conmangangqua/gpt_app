@@ -14,5 +14,9 @@
   "gamarine": {
     "sha": "b9492d8764f1b70e0d2e00bd32f0e1aaedbb030d27c26b892fddddb3ee7ed38d",
     "src": "https://github.com/conmangangqua/gpt_app/releases/download/dev/gamarine_icon.png"
+  },
+  "turbolt": {
+    "sha": "5d8ccbcd9159f642acb15f1390e9cd63434a27c89e3e0eab8579697ac41dbb20",
+    "src": "https://github.com/conmangangqua/gpt_app/releases/download/dev/turbolt_icon.png"
   }
 }
