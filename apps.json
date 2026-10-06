@@ -59,7 +59,7 @@
         "aab": "https://github.com/conmangangqua/gpt_app/releases/download/aab/turbolt.aab"
       },
       "versions": {
-        "dev": "1.0.1+26100301",
+        "dev": "1.0.1+26100501",
         "prod": "1.0.1+26100301",
         "aab": "1.0.0+26100102"
       },
