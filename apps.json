@@ -21,7 +21,7 @@
       "category": "Caller ID",
       "category_source": "rule",
       "store_updated": "Sep 14, 2026",
-      "store_version": null
+      "store_version": "26091401 (1.0.1)"
     },
     {
       "id": "knowcall",
@@ -43,8 +43,8 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilmind.knowcall.caller",
       "category": "Caller ID",
       "category_source": "rule",
-      "store_updated": "Sep 14, 2026",
-      "store_version": null
+      "store_updated": "Oct 10, 2026",
+      "store_version": "1.0.2"
     },
     {
       "id": "turbolt",
